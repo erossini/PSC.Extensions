@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Description>Collection of useful functions as extensions for .NET 5.0</Description>
+		<Copyright>Enrico Rossini</Copyright>
+		<PackageTags>extensions, c#, net50</PackageTags>
+		<SignAssembly>False</SignAssembly>
+		<Company>Enrico Rossini - PureSourceCode.com</Company>
+		<PackageReleaseNotes>Collection of useful functions as extensions for .NET 5.0</PackageReleaseNotes>
+		<PackageIcon>psc_logo.png</PackageIcon>
+		<ApplicationIcon>psc_logo.ico</ApplicationIcon>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+		<Authors>Enrico Rossini</Authors>
+		<AssemblyVersion>1.0.2</AssemblyVersion>
+		<FileVersion>1.0.2</FileVersion>
+		<Version>1.0.2</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="psc_logo.ico" Pack="true" PackagePath="" />
+		<None Include="psc_logo.png" Pack="true" PackagePath="" />
+	</ItemGroup>
+
+</Project>
