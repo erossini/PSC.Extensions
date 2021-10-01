@@ -1,4 +1,7 @@
 # PureSourceCode.com Extension for .NET5 
+We have just released a lot of functions for [.NET5](https://www.puresourcecode.com/category/dotnet/) in a [NuGet package](https://www.nuget.org/packages/PSC.Extensions/) that you can download for free. We collected in this package functions for everyday work to help you with claim, strings, enums, date and time, expressions…
+
+You can browse the full documentation [here](https://apps.puresourcecode.com/pscextensions). Please, give me your feedback in my [forum](https://www.puresourcecode.com/forum/) on [PureSourceCode.com](https://www.puresourcecode.com/).
 
 ## ClaimExtensions Methods
 ||Name|Description|
