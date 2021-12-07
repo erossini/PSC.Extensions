@@ -6,7 +6,7 @@ You can browse the full documentation [here](https://apps.puresourcecode.com/psc
 ## ClaimExtensions Methods
 ||Name|Description|
 |--- |--- |--- |
-|![Public method](https://apps.puresourcecode.com/pscextensions/icons/pubmethod.gif "Public method") ![Static member](https://apps.puresourcecode.com/pscextensions/icons/static.gif "Static member")|GetClaim|Gets a claim from a list of claims|
+|![Public method](https://user-images.githubusercontent.com/9497415/145021799-71853e5f-9f42-451c-81a6-a4bf0104386b.png) ![Static Method](https://user-images.githubusercontent.com/9497415/145021867-8353ffe5-4648-4f21-ad36-c345d277d10e.png)|GetClaim|Gets a claim from a list of claims|
 |![Public method](https://apps.puresourcecode.com/pscextensions/icons/pubmethod.gif "Public method") ![Static member](https://apps.puresourcecode.com/pscextensions/icons/static.gif "Static member")|GetClaimValue|Gets the value of the requested claim if it exists|
 |![Public method](https://apps.puresourcecode.com/pscextensions/icons/pubmethod.gif "Public method") ![Static member](https://apps.puresourcecode.com/pscextensions/icons/static.gif "Static member")|HasRole|Determines whether the specified role name has role.|
 |![Public method](https://apps.puresourcecode.com/pscextensions/icons/pubmethod.gif "Public method") ![Static member](https://apps.puresourcecode.com/pscextensions/icons/static.gif "Static member")|HasRoles|Determines whether the specified role name has roles.|
